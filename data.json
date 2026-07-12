@@ -1,0 +1,142 @@
+{
+  "formatted_address": "1003 Lund Blvd, Anoka, MN 55303, USA",
+  "formatted_phone_number": "(763) 220-6390",
+  "name": "Savoy Electrician & Handyman",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Deborah Olivier",
+      "author_url": "https://www.google.com/maps/contrib/112147845602332258143/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8Qv13TOGKklNxk2SNBk2qE1tmkG0rrLpiL-xrRNZrnULDGzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Savoy Electrician & Handyman is a five star company in my opinion. The employees are polite and professional. Tech was no exception. He took the time to explain the job and answered all my questions.  I appreciated the communication prior to the appointment as well as the follow up. I highly recommend Savoy Electrician & Handyman!",
+      "time": 1697191678,
+      "translated": false
+    },
+    {
+      "author_name": "Sheila Turley",
+      "author_url": "https://www.google.com/maps/contrib/112253421586398124107/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXh1bi5ZAHG4kWI7jcUJsB2AJWa0L84z5H7pyasV4m6eJk3qSc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "The guys at Savoy Electrician & Handyman are outstanding! They are punctual, polite, and have a great attention to detail. We had them install recessed lights in our kitchen and living room, as well as change out two ceiling fans. The supervisor came out ahead of time and provided a quote, so we didn\u2019t have any surprises. Would proudly recommend!!",
+      "time": 1625674678,
+      "translated": false
+    },
+    {
+      "author_name": "Nathan Doran",
+      "author_url": "https://www.google.com/maps/contrib/114844694829142053919/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBdfiu-Sm1xlp0-Y1QloHkiaoKALfRIgjBWju-KoLULSqCazo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Without hesitation, if my home needs any sort of electrical work, I am calling Savoy Electrician & Handyman again.  Steve was at my house the same day I made the call to inquire about getting service.  When he showed up, he was very friendly, professional, and knowledgeable. The pricing was reasonable.  Superb all the way.",
+      "time": 1625663546,
+      "translated": false
+    },
+    {
+      "author_name": "JOSE MANUEL AVELINO GONZALEZ",
+      "author_url": "https://www.google.com/maps/contrib/116195240750101720886/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQijhGXwrmMInLKHFqgcV4_G_ZOwahkgGA6UqAnTT3qehU0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "We recently moved into a new house that needed some electrical repairs. Nathan came highly recommend so we scheduled an appointment. Couldn't have been happier. He arrived on time and was an absolute pleasure to deal with. He was professional and quickly fixed the issues we had in the house. Being new to the area it feels good to have found our go-to for electrical work. Highly recommended.",
+      "time": 1651760470,
+      "translated": false
+    }
+  ],
+  "url": "https://maps.google.com/?cid=2800764336666910344",
+  "user_ratings_total": 4
+}
