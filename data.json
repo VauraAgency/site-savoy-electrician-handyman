@@ -3,7 +3,7 @@
   "formatted_phone_number": "(763) 220-6390",
   "name": "Savoy Electrician & Handyman",
   "opening_hours": {
-    "open_now": true,
+    "open_now": false,
     "periods": [
       {
         "close": {
